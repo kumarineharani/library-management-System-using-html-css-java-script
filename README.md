@@ -29,18 +29,3 @@ Build a simple library management page where <br>
 <br>
 <br>
 
-# Deployment
-GITHUB <br />
-Netlify (www.netlify.com) <br />
-
- <br />  <br />
- # Screenshots
- ![1](https://user-images.githubusercontent.com/87519174/206407084-547902a8-7f6a-4971-b906-7397483b0f99.png)<br>
-![2](https://user-images.githubusercontent.com/87519174/206407093-86a04ab1-9fa5-4514-b414-37b34f039fc0.png)
-
-  <br />  <br />
-  #Link to Project Demonstration LIVE: <br />
-  https://devrev-library-management.netlify.app/
-
-
-  
